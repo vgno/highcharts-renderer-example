@@ -1,0 +1,4 @@
+<?php
+return [
+    'host' => 'http://highcharts.renderer.host:11942/',
+];
